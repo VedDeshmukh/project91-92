@@ -1,0 +1,9 @@
+body{
+background: slateblue;
+}
+
+#question_display{
+Background: white;
+border-width: 4px;
+border-color: red;
+}
